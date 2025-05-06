@@ -1,0 +1,12 @@
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/PersonServices.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/Startup.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/controllers/GreetingController.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/controllers/MathController.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/controllers/PersonController.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/exception/ExceptionResponse.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/exception/UnsupportedMathOperationException.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/exception/hadler/CustomEntityResponseHandler.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/math/SimpleMath.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/model/Greeting.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/model/Person.java
+/Users/gabrielsoares/Documents/Spring-boot-api/Spring-boot-api/src/main/java/com/example/Spring_boot_api/request/converters/NumberConverter.java
