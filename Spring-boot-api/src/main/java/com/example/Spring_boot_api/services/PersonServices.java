@@ -1,8 +1,7 @@
-package com.example.Spring_boot_api;
+package com.example.Spring_boot_api.services;
 
 import com.example.Spring_boot_api.model.Person;
 import org.springframework.stereotype.Service;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.ArrayList;
 import java.util.List;

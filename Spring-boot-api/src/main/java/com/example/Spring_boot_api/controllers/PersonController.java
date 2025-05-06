@@ -1,6 +1,6 @@
 package com.example.Spring_boot_api.controllers;
 
-import com.example.Spring_boot_api.PersonServices;
+import com.example.Spring_boot_api.services.PersonServices;
 import com.example.Spring_boot_api.model.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
